@@ -1,3 +1,3 @@
 # aws-windows
 
-This is the windows repo
+This is the aws windows repo for EC2 SQL Server
